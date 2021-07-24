@@ -1,2 +1,2 @@
 # Code-Wars
-A place to push my Code Wars solutions
+A place to push my codwars.com solutions
